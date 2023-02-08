@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>quiz game</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    
+</head>
+<body>
+
+    <div class="contenedor" id="main">
+        <div class="encabezado">
+            <div class="categoria" id="categoria">
+              categoria
+            </div>
+            <div class="pregunta" id="pregunta">
+              pregunta
+            </div>
+            <img src="" class="imagen" id="imagen">
+        </div>
+        <div class="btn" id="btn1" onclick="oprimir_btn(0)">
+          Opcion 1
+        </div>
+        <div class="btn" id="btn2" onclick="oprimir_btn(1)">
+          Opcion 2
+        </div>
+        <div class="btn" id="btn3" onclick="oprimir_btn(2)">
+          Opcion 3
+        </div>
+        <div class="btn" id="btn4" onclick="oprimir_btn(3)">
+          Opcion 4
+        </div>
+        <div id="numero"></div>
+        <div id="puntaje"></div>
+    </div>
+    <div id="resultado"></div>
+    
+    <script src="index.js" type="text/javascript"></script>
+</body>
+</html>

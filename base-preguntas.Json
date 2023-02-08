@@ -1,0 +1,144 @@
+[
+  {
+    "categoria": "Arte & literatura",
+    "pregunta": "¿quien pintó la mona lisa?",
+    "respuesta": "Leonardo da Vinci",
+    "incorrecta1": "Miguel Angel",
+    "incorrecta2": "Monet",
+    "incorrecta3": "Picasso",
+    "imagen": "https://gcdn.emol.cl/mitos-y-enigmas/files/2016/07/04bd0c5f0a2c413ed86acc9faf0b9f33.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Conocimiento general",
+    "pregunta": "¿Cuál es la flor nacional de Japón?",
+    "respuesta": "Flor de cerezo",
+    "incorrecta1": "Lirio",
+    "incorrecta2": "Margarita",
+    "incorrecta3": "orquídea Mariposa",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqPfaf4DigDOgNcxR5FOK8aq5klJaIz7S6w&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Conocimiento general",
+    "pregunta": "¿Cuál de los siguientes imperios no tenía un idioma escrito?",
+    "respuesta": "Inca",
+    "incorrecta1": "Aztecas",
+    "incorrecta2": "Egipcios",
+    "incorrecta3": "Romanos",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMxjpXwdwSxYNvsuLHhEttSmWiTiTPg9ulA&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Arte & literatura",
+    "pregunta": "¿Cuál es la obra más famosa de Edvard Munch?",
+    "respuesta": "El grito",
+    "incorrecta1": "la noche estrellada",
+    "incorrecta2": "La última cena",
+    "incorrecta3": "la mona lisa",
+    "imagen": "https://algundiaenalgunaparte.files.wordpress.com/2009/07/el-grito_munch.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Deportes",
+    "pregunta": "¿Cual es el largo de una piscina olimpica?",
+    "respuesta": "50 metros",
+    "incorrecta1": "25 metros",
+    "incorrecta2": "30 metros",
+    "incorrecta3": "55 metros",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdQXbmMq0mvOgwiJ8MjQpFwd_ng1kU_Fxpg&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "peliculas y tv",
+    "pregunta": "¿Cuál fue la serie más vista en Netflix en el 2019?",
+    "respuesta": "Stranger Things",
+    "incorrecta1": "The witcher",
+    "incorrecta2": "Sex education",
+    "incorrecta3": "Formula 1",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrky9AsJEC3FTK64ENSPrl3ybQPs9URejrg&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "peliculas y tv",
+    "pregunta": "¿A que película pertenece el personaje de la imagen?",
+    "respuesta": "Chappie",
+    "incorrecta1": "Ghost in the Shell",
+    "incorrecta2": "wall-e",
+    "incorrecta3": "Robot 7723",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8t5kFkkYXm9283gIC5gg1pu4Z0WH69rSbg&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Deportes",
+    "pregunta": "¿A qué altura está la canasta de baloncesto?",
+    "respuesta": "3.05 metros",
+    "incorrecta1": "3 metros",
+    "incorrecta2": "3.10 metros",
+    "incorrecta3": "3.15 metros",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTL2FDDmN8_Ly2D71pkB4nRR0YZ0BbFgX7TQ&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿Dónde están las ruinas de Esparta?",
+    "respuesta": "En Grecia",
+    "incorrecta1": "En Turquia",
+    "incorrecta2": "En Francia",
+    "incorrecta3": "En Roma",
+    "imagen": "https://estaticos.muyinteresante.es/media/cache/1000x_thumb/uploads/images/test/59ede1025bafe8b98b3c986d/geografia7.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿A qué país pertenece esta bandera?",
+    "respuesta": "Senegal",
+    "incorrecta1": "Bahrain",
+    "incorrecta2": "Cameroon",
+    "incorrecta3": "Romania",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcxrIMO6Jd21OvOd5G0enCBqYMc2QeztsDg&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿A qué país pertenece esta bandera?",
+    "respuesta": "Cuba",
+    "incorrecta1": "Puerto Rico",
+    "incorrecta2": "Panama",
+    "incorrecta3": "Francia",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkXndhJB-Bl4sn7tydfmpq-ZYzH02ZTxwYQ&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿A qué país pertenece esta bandera?",
+    "respuesta": "Bahrein",
+    "incorrecta1": "Paises Bajos",
+    "incorrecta2": "Qatar",
+    "incorrecta3": "Polonia",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxu4qAx6of8KMnE0mYqyrHy7kg1WJAwR8soA&usqp=CAU",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Matematica",
+    "pregunta": "¿Cuanto es 2x2?",
+    "respuesta": "4",
+    "incorrecta1": "Maria",
+    "incorrecta2": "Pepino",
+    "incorrecta3": "House",
+    "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Ingles",
+    "pregunta": "¿Como se dice casa en ingles?",
+    "respuesta": "House",
+    "incorrecta1": "Piedra",
+    "incorrecta2": "Carretilla",
+    "incorrecta3": "You",
+    "imagen": "https://www.britishcouncil.org.mx/sites/default/files/styles/bc-square-100x100/public/banderas_ingles_britanico_y_americano_.png?itok=URgc1Oey",
+    "objectFit": "contain"
+  }
+
+  
+]
